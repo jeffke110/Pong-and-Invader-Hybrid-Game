@@ -1,5 +1,5 @@
 This project is combination of Space Invaders and Pong.
-  The logo from project 0 is created and the space bar must be pressed to play the game.
+ The space bar must be pressed to play the game.
   Controls: 
   Spacebar: shoot gun
   Left Arrow Key: move left
